@@ -1,4 +1,4 @@
-# Telstra Prometheus Exporter (for Telstra Smart Modem 2)
+# Telstra Prometheus Exporter
 Prometheus Exporter for the Telstra Smart Modem 2 (Arcadyan LH1000).
 Tested with firmware 0.19.07r
 
