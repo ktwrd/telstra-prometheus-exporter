@@ -1,0 +1,13 @@
+{
+    "time_between_restart": 15.0,
+    "requests_per_instance": 10,
+    "time_between_request": 5.0,
+    "sleep_after_login": 4.5,
+    "sleep_after_networkpage_load": 2.0,
+    
+    "router_base_url": "http://192.168.0.1",
+    "router_username": "admin",
+    "router_password": "Telstra",
+    
+    "prometheus_port": 8080
+}
